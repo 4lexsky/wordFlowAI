@@ -6,7 +6,7 @@ export const translations = {
     instructions: 'Start typing in the box below. AI will suggest the next word based on your context.',
     placeholder: 'Start typing your text here...',
     loading: 'Loading predictions...',
-    footer: '© 2025 WordFlow AI - Powered by OpenAI'
+    footer: '© 2025 WordFlow AI - Alexandre Tremblay'
   },
   fr: {
     title: 'WordFlow AI',
@@ -15,6 +15,6 @@ export const translations = {
     instructions: 'Commencez à écrire dans la zone ci-dessous. L\'IA suggérera le prochain mot en fonction de votre contexte.',
     placeholder: 'Commencez à écrire votre texte ici...',
     loading: 'Chargement des prédictions...',
-    footer: '© 2025 WordFlow AI - Propulsé par OpenAI'
+    footer: '© 2025 WordFlow AI - Alexandre Tremblay'
   }
 };

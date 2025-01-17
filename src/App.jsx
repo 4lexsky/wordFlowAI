@@ -8,7 +8,7 @@ import { translations } from './i18n/translations';
 
 function App() {
   const [input, setInput] = useState('');
-  const [language, setLanguage] = useState('en');
+  const [language, setLanguage] = useState('fr');
   const { predictions, loading } = useTokenPredictions(input);
   const t = translations[language];
 
